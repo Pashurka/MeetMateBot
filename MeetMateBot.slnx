@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MeetMateBot.Application/MeetMateBot.Application.csproj" />
+  <Project Path="MeetMateBot.Bot/MeetMateBot.Bot.csproj" />
+  <Project Path="MeetMateBot.Domain/MeetMateBot.Domain.csproj" />
+  <Project Path="MeetMateBot.Infrastructure/MeetMateBot.Infrastructure.csproj" />
+  <Project Path="MeetMateBot.Tests/MeetMateBot.Tests.csproj" />
+</Solution>

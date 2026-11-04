@@ -1,0 +1,17 @@
+# Secrets
+service-account.json
+*.pem
+*.key
+.env
+appsettings.Development.json
+appsettings.*.local.json
+
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# IDE
+.idea/
+*.suo
